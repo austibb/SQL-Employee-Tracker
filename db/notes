@@ -1,5 +1,0 @@
-employeeDB
-
-department: id, name
-employee: id, first_name, last_name, role_id, manager_id
-role: id, title, salary, department_id
